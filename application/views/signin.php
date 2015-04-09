@@ -81,7 +81,7 @@
                                         <div class="checkbox checkbox-primary pull-left ">
                                             <input id="checkbox3" type="checkbox" required data-parsley-mincheck="1">
                                                         <label for="checkbox3">
-                                                            Remember me
+                                                            Remembers me
                                                         </label>
                                             
                                                     </div>
